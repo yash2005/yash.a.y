@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+ // Compiler version 4.0, .NET Framework 4.5
+
+
+ namespace Dcoder
+ {
+   public class Program
+   {
+     public static void Main(string[] args)
+     {
+       //Your code goes here
+       int i;
+       i=0;
+       while(i<10)
+         Console.WriteLine("idk what does it looks like to you");
+     }
+   }
+ }
